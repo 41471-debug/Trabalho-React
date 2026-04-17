@@ -28,14 +28,6 @@ main {
 }
 
 .busca {
-  width: 50px;
-  padding: 25px;
-  border: 1px solid #0000002d;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border-radius: 200px;
-
   img {
     width: 25px;
     height: 25px;

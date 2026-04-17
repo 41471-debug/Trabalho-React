@@ -6,8 +6,8 @@ import produtos from "./assets/icones/produtos.png"
 import adicionar from "./assets/icones/adicionar.png"
 
 import laranja from "./assets/laranja.webp"
-import maca from "./assets/maça.png"
-import pimentao from "./assets/pimentao.png"
+import maca from "./assets/maca.webp"
+import pimentao from "./assets/pimentao.webp"
 import pitaya from "./assets/pitaya.webp"
 
 import './App.css'
